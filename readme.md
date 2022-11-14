@@ -5,7 +5,7 @@ This is just a basic version of my old api that i used to use for authentication
 # Setup 
 
 This doesnt require Apache2 
-you will need Node.JS and a wesite or domain 
+you will need Node.JS and a website or domain 
 
 put your SSL certs in the SSL Folder
 
@@ -21,3 +21,10 @@ https://github.com/NullifiedCode/DDoS-Protection-V2
 
 # Final Note
 Dont Use Key Auth Look at how simple this is make your own auth....
+
+need help join our discord server https://discord.gg/HVL
+
+
+or ask 
+
+`Cypher#9981`
